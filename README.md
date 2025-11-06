@@ -1,5 +1,4 @@
-- 🔭 I’m currently working at Leroy Merlin
-- 🌱 I’m currently learning Kubernetes, Docker, Laravel, Design Patterns
+- 🔭 Senior Software Engineer
 - 📫 How to reach me: 
 <a target="_blank" href="https://linkedin.com/in/hborges9294/">
   <img src="https://img.shields.io/badge/-henrique-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/hborges9294/" alt="Linkedin Badge"/>
